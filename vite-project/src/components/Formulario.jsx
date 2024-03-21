@@ -90,7 +90,7 @@ const Formulario = () =>{
                     />
                 </div>
                 <div className="form-group">
-                    <label>Confirma contraseña</label>
+                    <label>Confirmar contraseña</label>
                     <input 
                         type = "text"
                         name = "pass2"
