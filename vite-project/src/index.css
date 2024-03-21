@@ -105,4 +105,6 @@ color: red;
 
 .correcto{
   color: green;
+  background-color: rgb(236, 227, 227);
+  font-size: 30px;
 }
